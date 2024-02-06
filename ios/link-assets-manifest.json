@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlbertSans-Regular.ttf",
+      "sha1": "17813e4886d2da95f62f25ce40eb94e35856b513"
+    },
+    {
+      "path": "assets/fonts/Commissioner-Regular.ttf",
+      "sha1": "56170843e80a2f6d74f1d8251a56a1a3e8d9b65f"
+    },
+    {
+      "path": "assets/fonts/FontsFree-Net-CercoDEMO-Light.ttf",
+      "sha1": "efa410fa49e7a7fa642c7fc27b0d20fd8d606de8"
+    },
+    {
+      "path": "assets/fonts/Garogier.ttf",
+      "sha1": "071b3f5741a0b2ede9bb4203b9d76a05243e3084"
+    },
+    {
+      "path": "assets/fonts/Gen-Light.ttf",
+      "sha1": "a7aed3fe5ce15fc7f107107b1f825be806a66059"
+    },
+    {
+      "path": "assets/fonts/HONORSans-Regular.ttf",
+      "sha1": "5c59270c5967fa9f046c8042144dd0a92b4f0aec"
+    },
+    {
+      "path": "assets/fonts/HarmonyOS_Sans_Regular.ttf",
+      "sha1": "8bea06ce4d7b4196f5e5f60b5580bdb1519ff560"
+    },
+    {
+      "path": "assets/fonts/KumbhSans-Thin.ttf",
+      "sha1": "080bf94f9fe65e653b1ad435845523b5aa5ef511"
+    },
+    {
+      "path": "assets/fonts/KumbhSans-VariableFont_YOPQ,wght.ttf",
+      "sha1": "4600486ef3d2fbd10ed5eacfd514f675c15b22bc"
+    },
+    {
+      "path": "assets/fonts/Onest-Regular.ttf",
+      "sha1": "8d0738a577b67ca09088fabe2cd351c2d312884a"
+    }
+  ]
+}
